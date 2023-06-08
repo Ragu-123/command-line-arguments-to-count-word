@@ -33,7 +33,7 @@ for line in fp:
 print("Number of words in a file",count)
 ```
 ### OUTPUT:
-
+![image](https://github.com/Ragu-123/command-line-arguments-to-count-word/assets/113915622/1a3b5373-4117-4813-b83a-1197e0009af9)
 ![image](https://github.com/Ragu-123/command-line-arguments-to-count-word/assets/113915622/bb85fbfa-8bc9-4119-b925-4dada1829deb)
 ![image](https://github.com/Ragu-123/command-line-arguments-to-count-word/assets/113915622/9c38a3b2-e9ae-46ad-afa4-c08f1ace1f3e)
 
